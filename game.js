@@ -24,4 +24,3 @@ function nextSequence() {
   audio.play();
 }
 
-nextSequence();
